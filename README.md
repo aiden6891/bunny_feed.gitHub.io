@@ -1,1 +1,1 @@
-# bunny_feed.gitHub.io
+# bunny_feeder.github.io
